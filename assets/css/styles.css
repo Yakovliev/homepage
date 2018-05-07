@@ -1,0 +1,68 @@
+body {
+    color: #666666;
+    background-color: #f9f8f6;
+    font-family: Georgia, Times, serif;
+    margin: 0px;
+    line-height: 1.4em;
+}
+
+.main_wrapper {
+    width: 940px;
+    margin: 20px auto 20px auto;
+    border: 2px solid #000000;
+    background-color: #ffffff;
+}
+
+footer {
+    font-size: 80%;
+    padding: 7px 0px 0px 20px;
+    color: #ffffff;
+	background-color: #aeaca8;
+    height: 30px;
+    clear: both;
+}
+
+aside {
+    width: 270px;
+    float: right;
+    padding: 0px 0px 0px 20px;   
+}
+
+section.main_section{
+    float: left;
+	border-right: 1px solid #eeeeee;
+    width: 600px;
+    padding: 10px 10px 10px 20px;
+}
+
+figure {
+    float: left;
+    width: 200px;
+    height: 340px;
+    padding: 0px;
+    margin: 10px auto 10px auto;
+    display: block;
+}
+
+figure img {
+    width: 210px;
+    height: 300px;
+    border: 3px solid #e7e3d8;
+}
+
+figcaption {
+    font-size: 110%;
+    text-align: left;}
+
+article {
+    padding-right: 10px;
+}
+
+a {
+    color: #de6581;
+    text-decoration: none;
+}
+
+section.main_section article {
+    padding-bottom: 5px;
+}
